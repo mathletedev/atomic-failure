@@ -1,0 +1,5 @@
+[app]
+name = "atomic"
+stylized-name = "Atomic"
+domain = "example.com"
+template-pack = "wry"
